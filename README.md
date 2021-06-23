@@ -98,3 +98,6 @@ print(car_part)
 car_part.discard("Wheels")
 print(car_part)
 ```
+- Python also has Frozen sets
+- Syntax `name = value([1, ,2 3 , 4])`
+- Create a Frozen-set set and print the values with the type of the sets
